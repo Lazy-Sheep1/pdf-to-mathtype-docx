@@ -1,0 +1,4 @@
+interface:
+  display_name: "PDF to MathType Word"
+  short_description: "Convert academic PDFs to editable MathType Word documents"
+  default_prompt: "Use $pdf-to-mathtype-docx to convert this PDF into an editable Word document, prioritizing complete equations and verified layout."

@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+work/
+dist/
+*.docx
+*.doc
+*.pdf
+*.png
+*.bin
+.env
+.env.*
